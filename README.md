@@ -1,7 +1,7 @@
 # Basics_Plido_LoPy
 Basics py and js code for Pycom LoPy #LPWAN #IoT 
 
-Let's build an IoT device connect throught LPWA Network. 
+Let's build an IoT device connected on LPWA Network. 
 
 <h1>How to run - Requirements :</h1> 
 
